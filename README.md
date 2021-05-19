@@ -1,6 +1,6 @@
 The game of Rock, Paper, Scissors is very simple. Each player picks one of the three objects (usually by making the appropriate hand shape on a count of three!) and these rules are applied to see who has won that round:
 
-Paper wraps (beats) Rock
+Paper Wraps (beats) Rock
 Scissors cut (beat) Paper
 Rock blunts (beats) Scissors
 
